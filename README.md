@@ -1,16 +1,18 @@
-## Hi there 👋
+Full-stack Developer based in Asheville, NC
 
-<!--
-**darrylschaefer/darrylschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Collaboration: Contract or full‑time; remote-friendly.
 
-Here are some ideas to get you started:
+Highlights
+- Built an ebook→video engine: parses chapters, synthesizes voice, renders scenes, and composes final 1080p/4K 60FPS videos with an e-reader interface. • Private 
+- AI Text Editor (open source): a local‑first React/Electron editor I use to write stories using AI macros. Repo: https://github.com/darrylschaefer/ai-text-editor • Live: https://fthr.vercel.app
+- Focus areas: media automation, TTS, rich-text editors & formatting, Lexical JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I use
+- Core: Node.js, TypeScript, React/Next.js, Lexical JS
+- Rendering: Puppeteer/Playwright, FFmpeg
+- AI/TTS: Azure TTS, Amazon Polly, ElevenLabs, OpenAI TTS and LLMs
+- Infra: Docker, AWS/GCP, S3/GCS
+- Media: EPUB/PDF parsing, WebVTT/SRT
+
+Contact
+- Email: darrylwschaefer@gmail.com
